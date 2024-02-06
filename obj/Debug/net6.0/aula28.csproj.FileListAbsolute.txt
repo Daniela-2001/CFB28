@@ -1,0 +1,30 @@
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\bin\Debug\net6.0\aula28.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\bin\Debug\net6.0\aula28.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\bin\Debug\net6.0\aula28.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\bin\Debug\net6.0\aula28.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\bin\Debug\net6.0\aula28.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\obj\Debug\net6.0\aula28.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\obj\Debug\net6.0\aula28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\obj\Debug\net6.0\aula28.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\obj\Debug\net6.0\aula28.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\obj\Debug\net6.0\aula28.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\obj\Debug\net6.0\aula28.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\obj\Debug\net6.0\refint\aula28.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\obj\Debug\net6.0\aula28.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\obj\Debug\net6.0\aula28.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28 fazer\aula28\obj\Debug\net6.0\ref\aula28.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\bin\Debug\net6.0\aula28.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\bin\Debug\net6.0\aula28.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\bin\Debug\net6.0\aula28.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\bin\Debug\net6.0\aula28.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\bin\Debug\net6.0\aula28.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\obj\Debug\net6.0\aula28.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\obj\Debug\net6.0\aula28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\obj\Debug\net6.0\aula28.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\obj\Debug\net6.0\aula28.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\obj\Debug\net6.0\aula28.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\obj\Debug\net6.0\aula28.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\obj\Debug\net6.0\refint\aula28.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\obj\Debug\net6.0\aula28.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\obj\Debug\net6.0\aula28.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula28\aula28\obj\Debug\net6.0\ref\aula28.dll
